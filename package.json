@@ -1,0 +1,19 @@
+{
+  "name": "w6d1-js-practice-komor-rp",
+  "version": "1.0.0",
+  "description": "## Skills",
+  "main": "homework.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files \"*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momentum-cohort-2018-10/w6d1-js-practice-Komor-RP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momentum-cohort-2018-10/w6d1-js-practice-Komor-RP/issues"
+  },
+  "homepage": "https://github.com/momentum-cohort-2018-10/w6d1-js-practice-Komor-RP#readme"
+}
